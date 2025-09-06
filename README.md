@@ -1,4 +1,4 @@
-# UI-UX-Projects
+# UI/UX-Project 1
 ## Simple Figma Project
 
 **Description:** Created a simple website design using various Figma tools.  
